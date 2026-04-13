@@ -1,9 +1,11 @@
 {
   "name": "anglesite",
-  "description": "Claude Code plugins by Anglesite",
   "owner": {
     "name": "David W. Keith",
     "email": "git@dwk.io"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Anglesite"
   },
   "plugins": [
     {
